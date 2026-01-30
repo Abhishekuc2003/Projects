@@ -13,6 +13,6 @@ The projects demonstrate hands-on experience with **microcontrollers, sensors, a
 This repository serves as a technical showcase for **embedded systems, electronics, and IoT-focused roles**.
 
 **Author:** Abhishek Chavan
-Core Electronics | Embedded Systems | IoT
+
 
 
